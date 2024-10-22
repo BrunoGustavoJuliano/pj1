@@ -8,9 +8,16 @@ header {
     border-bottom: solid 2px rgb(255, 28, 28);
     padding: 20px;  
     font-size: 32px;
-    color:rgb(255, 28, 28)
+    color:rgb(255, 28, 28);
 }
-
 section {
     background: rgb(8, 8, 8);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    margin-right: 20px;
 }
